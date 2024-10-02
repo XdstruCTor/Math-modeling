@@ -34,5 +34,5 @@ Clone the repository and navigate to the directory containing the code. The main
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/SEIR-model.git
-cd SEIR-model
+git clone git@github.com:XdstruCTor/Math-modeling.git
+cd Math-modeling
